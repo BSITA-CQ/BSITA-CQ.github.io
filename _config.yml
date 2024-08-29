@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "“OG里德掌控一切”"
+title                    : "OG里德掌控一切"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -27,7 +27,7 @@ author:
   #bio              : "Short biography for the left-hand sidebar"
   #location         : "Earth"
   #employer         : "Red Brick University"
-  #uri              : # URL
+  uri               : https://euclidnorm.github.io/
   #email            : "none@example.org" 
 
   # Academic websites
