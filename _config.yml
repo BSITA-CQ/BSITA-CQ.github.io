@@ -86,7 +86,7 @@ author:
   location         : #"Location"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://music.163.com/#/artist?id=94245293"
   网易云主页       : "https://music.163.com/#/artist?id=94245293"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -105,7 +105,7 @@ author:
   linkedin         :
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
-  soundcloud       : "https://music.163.com/#/artist?id=94245293"
+  soundcloud       : #"https://music.163.com/#/artist?id=94245293"
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
