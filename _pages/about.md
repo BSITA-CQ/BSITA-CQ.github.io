@@ -9,7 +9,7 @@ redirect_from:
 
 
 
-![IMG_radar](https://github.com/EuclidNorm/EuclidNorm.github.io/blob/master/images/Player0_Radar.jpg “我的雷达图”) 
+<img src="https://github.com/EuclidNorm/EuclidNorm.github.io/blob/master/images/Player0_Radar.png" width="450" height="450" />
 
 
 
