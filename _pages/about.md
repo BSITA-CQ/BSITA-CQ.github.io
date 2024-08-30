@@ -22,7 +22,6 @@ redirect_from:
 **音乐能力：制作，录音，混音，编曲**
 
 
-<a href="http://write.blog.csdn.net/postlist" target="_blank">跳到自己博客列表</a>
 
 
 
