@@ -9,6 +9,8 @@ redirect_from:
 
 
 
+![IMG_radar](https://github.com/EuclidNorm/EuclidNorm.github.io/blob/master/images/Player0_Radar.jpg “我的雷达图”) 
+
 
 
 **音乐方向：孟菲斯，陷阱，Pluggnb**
