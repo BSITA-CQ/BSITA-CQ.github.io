@@ -20,3 +20,16 @@ redirect_from:
 
 
 **音乐能力：制作，录音，混音，编曲**
+
+
+
+<details>
+<summary>我的作品</summary>
+
+| 专辑        | 曲目      |
+|-----------:|-----------|
+|二不传奇     | JavaScript|
+|巴蜀回忆     | Python    |
+|Not Included| SQL       |
+
+</details>
