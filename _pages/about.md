@@ -105,3 +105,72 @@ redirect_from:
 </details>
 
 
+
+<details>
+<summary>Songs Not Archived</summary>  
+  
+<br/>
+
+这里是EuclidNorm的歌曲杂集，出自平日生活的一些情绪与感想。其中“重生”仍未完成，是半成品Demo。
+  
+<br/>  
+
+<br/>  
+
+<a href="https://share.feijipan.com/s/oJCZqNHN" target="_blank">跛尔皮</a>  
+
+<br/> 
+
+<br/>  
+
+<a href="https://share.feijipan.com/s/oJCZqNHN" target="_blank">支持向量机</a>  
+
+<br/> 
+
+<br/>  
+
+<a href="https://share.feijipan.com/s/oJCZqNHN" target="_blank">重生</a>  
+
+ 
+
+</details>
+
+
+
+<details>
+<summary>Beats</summary>  
+  
+<br/>
+
+这里是EuclidNorm的beat demo合集。
+  
+<br/>  
+
+<br/>  
+
+<a href="https://share.feijipan.com/s/oJCZqNHN" target="_blank">会当凌绝顶</a>  
+
+<br/> 
+
+<br/>  
+
+<a href="https://share.feijipan.com/s/oJCZqNHN" target="_blank">化龙</a>  
+
+<br/> 
+
+<br/>  
+
+<a href="https://share.feijipan.com/s/oJCZqNHN" target="_blank">凌晨四点</a>  
+
+<br/>  
+
+<br/>  
+
+<a href="https://share.feijipan.com/s/oJCZqNHN" target="_blank">Playing Like Booker</a>  
+
+
+ 
+
+</details>
+
+
