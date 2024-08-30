@@ -8,8 +8,9 @@ redirect_from:
 ---
 
 
+<br/>
 
-<img src="https://github.com/EuclidNorm/EuclidNorm.github.io/blob/master/images/Player0_Radar.png" width="450" height="350" />
+<br/>
 
 
 
