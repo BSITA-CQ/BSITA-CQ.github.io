@@ -7,12 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-
 <br/>
-
-<br/>
-
-
 
 **音乐方向：孟菲斯，陷阱，Pluggnb**
 
@@ -31,8 +26,6 @@ redirect_from:
 
 专辑
 ======
-
-<br/>
 
 <br/>
 
