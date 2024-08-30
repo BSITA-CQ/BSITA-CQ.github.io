@@ -9,7 +9,7 @@ redirect_from:
 
 
 
-<img src="https://github.com/EuclidNorm/EuclidNorm.github.io/blob/master/images/Player0_Radar.png" width="450" height="450" />
+<img src="https://github.com/EuclidNorm/EuclidNorm.github.io/blob/master/images/Player0_Radar.png" width="450" height="350" />
 
 
 
