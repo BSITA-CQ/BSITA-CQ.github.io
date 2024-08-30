@@ -67,3 +67,41 @@ redirect_from:
 
 
 </details>
+
+
+<details>
+<summary>巴蜀风云</summary>  
+  
+<br/>
+
+回首往昔，巴蜀的生活让EuclidNorm十分怀念。校园生活的精彩包括了一起翻墙通宵上网的兄弟、共同遭受处分风波的死血、球场上争锋相对的同学、行事风格不拘一格的奇人......  
+  
+<br/>  
+
+<br/>  
+
+<a href="https://share.feijipan.com/s/oJCZqNHN" target="_blank">巴蜀Bully</a>  
+
+<br/> 
+
+<br/>  
+
+<a href="https://share.feijipan.com/s/oJCZqNHN" target="_blank">周翔天花</a>  
+
+<br/> 
+
+<br/>  
+
+<a href="https://share.feijipan.com/s/oJCZqNHN" target="_blank">李斯成</a>  
+
+<br/>  
+
+<br/>  
+
+<a href="https://share.feijipan.com/s/oJCZqNHN" target="_blank">龚逼</a>  
+
+
+
+</details>
+
+
