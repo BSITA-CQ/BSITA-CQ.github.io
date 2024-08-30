@@ -24,12 +24,20 @@ redirect_from:
 
 
 <details>
-<summary>我的作品</summary>
+<summary>二不传奇</summary>
 
-| 专辑        | 曲目      |
-|-----------:|-----------|
-|二不传奇     | JavaScript|
-|巴蜀回忆     | Python    |
-|Not Included| SQL       |
+这张专辑起始于2022年六月，时值EuclidNorm前往新加坡留学的前夕。EuclidNorm心中对茫然的未来怅然，对当前在重庆的朋友与亲人依依不舍，写下了今当远离。而在新加坡期间，EuclidNorm在学习之余不断将心中的情绪写成歌曲，最后写出了四首较为满意的单曲。Fantasy、Baby记录了他对国内爱人的思念，心如冰雪记录了情绪的低落时刻，LiDAR则是作为EuclidNorm的硕士毕业论文主题被呈现出。
+  
+[LiDAR](https://share.feijipan.com/s/oJCZqNHN)
+
+[Baby]
+
+[Fantasy]
+
+[今当远离]
+
+[心如冰雪]
+
+
 
 </details>
