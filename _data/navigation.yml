@@ -20,8 +20,8 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
     
-  - title: "作品"
-    url: /cv/
+  #- title: "作品"
+  #  url: /cv/
     
-  #- title: "Guide"
-  #  url: /markdown/
+  - title: "作品"
+    url: /markdown/
