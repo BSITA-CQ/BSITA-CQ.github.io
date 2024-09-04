@@ -211,6 +211,62 @@ All inside your soul，我能发现你的美丽
 
 </details>
 
+<br/>
+
+<details>
+<summary>Baby</summary>  
+  
+<br/>
+Overnight, yeah, work overnight
+<br/>
+Have no time, I don't have that time, yeah
+<br/>
+In no vibe, yeah, bitch I'm in no vibe
+<br/>
+Keep myself alive, they will never take my pride, yeah
+<br/>
+You wanna see the Mo, once I show up but you always flee
+<br/>
+I don't wanna smoke no more, but I always see those memories
+<br/>
+Feeling my heart so cold, you left me fucked up since last February
+<br/>
+Life ain't normal, I don't dare to show them my fragility
+<br/>
+In nostalgia, I don't wanna leave
+<br/>
+I'm drown but you don't wanna reach
+<br/>
+Stay with me, there could've been better things
+<br/>
+But my error leads me (to) break the everything
+<br/>
+In nostalgia, I don't wanna leave
+<br/>
+I'm drown but you don't wanna reach
+<br/>
+Stay with me, there could've been better things
+<br/>
+But my error leads me (to) break the everything
+<br/>
+我好像看不见任何的light
+<br/>
+痛苦和仇恨蒙蔽了我的双眼，我以为I’ll be alright
+<br/>
+时间也好像总在一晃眼，一切也永远回不到从前
+<br/>
+我只能把我所有的怀念，fold in the pack，put in the mic，yeah
+<br/>
+还记得第一次见你，感觉你也很普通
+<br/>
+但那份质朴却引起了我的冲动，陪你过好几个春夏秋冬
+<br/>
+过得太幸福以至于没见到不安涌动，最终我只能在回忆里努力去记忆你稚嫩的脸
+
+</details>
+
+<br/>
+
 巴蜀风云
 =========
 <br/>
