@@ -159,6 +159,57 @@ I'm gonna miss my 重, I‘m gonna miss my hometown
 
 <br/>
 
+<details>
+<summary>Fantasy</summary>  
+  
+<br/>
+抬头仰望天空，我们是否还是初见时的面容
+<br/>
+泛黄的回忆，在那时你会出现在我梦里
+<br/>
+Fantasy，living in fantasy
+<br/>
+在我的梦里总会出现你的身影
+<br/>
+Fantasy，living in fantasy
+<br/>
+冬天里仿佛又听见了你的声音
+<br/>
+不想再分开因为下一次重逢又是漫无归期
+<br/>
+When I was down, you always show up and you say you will come to save me
+<br/>
+每一次看你眼神我勾起一段段甜蜜的回忆
+<br/>
+Baby，如果爱是场骗局那你太卑鄙
+<br/>
+Baby牵着我的手，告诉我会陪你
+<br/>
+I don't wanna go，尽管维持关系费力
+<br/>
+她们全是hoe，你是最独特的唯一
+<br/>
+All inside your soul，我能发现你的美丽
+<br/>
+沉迷于二次元，那曾是曾经的我
+<br/>
+于是我有很多梦，变得不愿意将就
+<br/>
+虚伪会让人很恼火，真诚会让我上头
+<br/>
+执念在让我去坚持，现实在让我放手
+<br/>
+奇妙的旅行，这一路有你，我很乐意
+<br/>
+按下了快门我把我们的经历装进了相片
+<br/>
+努力对你好我不想以后不是你在我旁边
+<br/>
+泪使红梢减旧香，谁使鸳鸯故作双
+<br/>
+放任一切不去想，你在就是乌托邦
+
+</details>
 
 巴蜀风云
 =========
