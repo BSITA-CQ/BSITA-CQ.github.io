@@ -267,6 +267,107 @@ But my error leads me (to) break the everything
 
 <br/>
 
+<details>
+<summary>心如冰雪</summary>  
+  
+<br/>
+I cannot trust anybody，我内心早冷如冰雪
+<br/>
+北边又吹来了风，风带不走我的痛苦和心结
+<br/>
+Wondering why she's gone，我们比哪个都亲切
+<br/>
+好多的话没说出口，但我想你已经没得法听见
+<br/>
+Please give me a reason，我想我没办法明白
+<br/>
+You used to ease my mind，你拥有魔力让我的心停歇
+<br/>
+时过境迁咯我也不再是小孩儿了我洗净了青涩
+<br/>
+再多的成长和故事我似乎也不能再向你去倾泻
+<br/>
+I cannot trust, I cannot trust anyone but you
+<br/>
+我的上升，我的低落嘞一切你都有目共睹
+<br/>
+我太固执和天真一直不理解你良心用苦
+<br/>
+但当所有的美好都破灭了一切都只剩了痛苦
+<br/>
+我仿佛又看到昨日哩悲剧和喜剧在眼前上演
+<br/>
+曾经的小房子挤满了两人的梦，现在是空荡房间
+<br/>
+Sitting on (in) the couch，以前看电视你总坐那旁边
+<br/>
+放哩是亮剑，你把脚放我腿上面，关掉它你说你不爱看血腥的场面
+<br/>
+你说你想开个网店，里面都卖猫猫狗狗
+<br/>
+我说太费劲，不如省点钱以后旅游
+<br/>
+时间过一年又一年，嘞个事还是没实现
+<br/>
+打开了窗户我透进了光线，光影哩交错间那日常琐碎也不再是常见
+<br/>
+I cannot forget what I have done,你的躲避不可能假装
+<br/>
+I should've known 这一个下场，I should've known 这一个下场
+<br/>
+I cannot trust anybody，我内心早冷如冰雪
+<br/>
+北边又吹来了风，风带不走我的痛苦和心结
+<br/>
+Wondering why she's gone，我们比哪个都亲切
+<br/>
+好多的话没说出口，但我想你已经没得法听见
+<br/>
+Please give me a reason，我想我没办法明白
+<br/>
+You used to ease my mind，你拥有魔力让我的心停歇
+<br/>
+时过境迁咯我也不再是小孩儿了我洗净了青涩
+<br/>
+再多的成长和故事我似乎也不能再向你去倾泻
+<br/>
+我不能，我不能再想你
+<br/>
+过去，如今，都不该再在意
+<br/>
+告诉我自己keep peace，不要去伤心，但我脑海里他身影总挥之不去
+<br/>
+我知道他也会变心，生活从来都不是电影
+<br/>
+我的心冰冷如坚冰，漫漫的长路上一个人前进
+<br/>
+我早已失去了闲心，focus on 提升我年薪
+<br/>
+我的心冰冷如坚冰，经历了阴晴和圆缺我的心不再在年轻
+<br/>
+I cannot trust anybody，我内心早冷如冰雪
+<br/>
+北边又吹来了风，风带不走我的痛苦和心结
+<br/>
+Wondering why she's gone，我们比哪个都亲切
+<br/>
+好多的话没说出口，但我想你已经没得法听见
+<br/>
+Please give me a reason，我想我没办法明白
+<br/>
+You used to ease my mind，你拥有魔力让我的心停歇
+<br/>
+时过境迁咯我也不再是小孩儿了我洗净了青涩
+<br/>
+再多的成长和故事我似乎也不能再向你去倾泻
+<br/>
+I don't know why, I don't know why it goes in this way
+<br/>
+I don't know why, I don't know why...
+</details>
+
+<br/>
+
 巴蜀风云
 =========
 <br/>
