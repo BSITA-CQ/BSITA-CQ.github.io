@@ -20,7 +20,7 @@ redirect_from:
 <br/>
 
 ​<audio id="audio" controls="" preload="none">
-      <source id="mp3" src="https://share.feijipan.com/s/oJCZqNHN">
+      <source id="mp3" src="https://github.com/EuclidNorm/EuclidNorm.github.io/blob/master/music/EmoGood.mp3?raw=true">
 </audio>
 test
   
