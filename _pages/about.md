@@ -23,6 +23,6 @@ redirect_from:
 <details>
 <summary>实力分布</summary>
 
-![People](/images/level.png)
+![People](/images/BSITA-level.png)
   
 </details>
