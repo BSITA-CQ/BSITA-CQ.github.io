@@ -16,6 +16,13 @@ redirect_from:
 <details>
 <summary>成员风采</summary>  
   
-![]
+![People](/images/GPT.png)
 
+</details>
+
+<details>
+<summary>实力分布</summary>
+
+![People](/images/level.png)
+  
 </details>
