@@ -16,17 +16,17 @@ redirect_from:
 <details>
 <summary>成员风采</summary>  
 
-<img src="/images/BSITA_level.png" alt="People" style="display:block; margin: 0 auto;" width="400">
+<img src="https://github.com/BSITA-CQ/BSITA-CQ.github.io/tree/master/images/BSITA_level.png" width="400">
 
-![People](/images/GPT.png)
+
 
 </details>
 
 <details>
 <summary>实力分布</summary>
 
-<img src="/images/BSITA_level.png" alt="People" style="display:block; margin: 0 auto;" width="400">
+<img src="https://github.com/BSITA-CQ/BSITA-CQ.github.io/tree/master/images/BSITA_level.png" width="400">
 
-![People](/images/BSITA_level.png)
+
   
 </details>
