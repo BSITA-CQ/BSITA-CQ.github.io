@@ -8,8 +8,8 @@ main:
   #- title: "二不传奇"
   #  url: /publications/
 
-  #- title: "巴蜀风云"
-  #  url: /talks/    
+  - title: "周边产品"
+    url: /talks/    
 
   #- title: "Songs Not Archived"
   #  url: /teaching/    
