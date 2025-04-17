@@ -16,7 +16,7 @@ redirect_from:
 <details>
 <summary>成员风采</summary>  
 
-<img src="/images/BSITA_level.png" width="400">
+<img src="/images/GPT.png" width="400">
 
 
 
