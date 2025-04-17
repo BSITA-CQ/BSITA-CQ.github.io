@@ -16,7 +16,7 @@ redirect_from:
 <details>
 <summary>成员风采</summary>  
 
-<img src="https://github.com/BSITA-CQ/BSITA-CQ.github.io/tree/master/images/BSITA_level.png" width="400">
+<img src="images/BSITA_level.png" width="400">
 
 
 
@@ -25,7 +25,7 @@ redirect_from:
 <details>
 <summary>实力分布</summary>
 
-<img src="https://github.com/BSITA-CQ/BSITA-CQ.github.io/tree/master/images/BSITA_level.png" width="400">
+<img src="images/BSITA_level.png" width="400">
 
 
   
