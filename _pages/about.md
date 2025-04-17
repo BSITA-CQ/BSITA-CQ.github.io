@@ -18,6 +18,8 @@ redirect_from:
 
 <img src="/images/GPT.png" width="600">
 
+<img src="/images/GPT1.png" width="600">
+
 
 
 </details>
